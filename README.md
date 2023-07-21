@@ -1,6 +1,6 @@
 # Movie Seat Booking
+![Movie Seat Booking](app.png)
 
-![Movie Seat Booking GIF](https://user-images.githubusercontent.com/1016143/187770506-39e896ca-5495-4695-94c9-6976a4ef0445.gif)![Movie Seat Booking](app.png)
 
 ## Description
 
