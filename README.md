@@ -9,17 +9,17 @@ Movie Seat Booking is a user-friendly app that lets you book seats for your favo
 
 ## Project Highlights
 
-- **Interactive UI:** 🎉 The app features a visually appealing user interface that includes options for movie selection, seat picking, and a helpful legend to guide you.
+- **Interactive UI:**  The app features a visually appealing user interface that includes options for movie selection, seat picking, and a helpful legend to guide you.
 
-- **Choose Your Movie:** 🍿 Browse through the available movies and pick the one you're excited to watch, complete with its corresponding price.
+- **Choose Your Movie:**  Browse through the available movies and pick the one you're excited to watch, complete with its corresponding price.
 
-- **Seat Selection Made Easy:** ✨ Simply click on the seats you want, and they will be highlighted to show they are selected. Easily deselect any seat if you change your mind.
+- **Seat Selection Made Easy:**  Simply click on the seats you want, and they will be highlighted to show they are selected. Easily deselect any seat if you change your mind.
 
-- **Seat Availability Check:** 🔍 Occupied seats are off-limits, ensuring you only choose from available seats.
+- **Seat Availability Check:**  Occupied seats are off-limits, ensuring you only choose from available seats.
 
-- **Real-time Updates:** ⏱️ Watch the number of selected seats and the total price update dynamically as you make your choices.
+- **Real-time Updates:**  Watch the number of selected seats and the total price update dynamically as you make your choices.
 
-- **Never Lose Your Selections:** 💾 The app intelligently stores your selected seats, movie choice, and total price in Local Storage, so you don't lose your progress, even if you refresh the page.
+- **Never Lose Your Selections:**  The app intelligently stores your selected seats, movie choice, and total price in Local Storage, so you don't lose your progress, even if you refresh the page.
 
 ## Installation
 
