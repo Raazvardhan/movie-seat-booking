@@ -34,7 +34,7 @@ To experience the Movie Seat Booking app, follow these steps:
 
 Ready to book your movie seats? Here's how:
 
-1. Launch the app by opening the `index.html` file in your web browser.
+1. Launch the app by opening the  `index.html` file in your web browser.
 
 2. Browse the list of available movies and choose the one that excites you the most, along with its corresponding ticket price.
 
