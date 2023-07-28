@@ -1,5 +1,6 @@
 # Movie Seat Booking
-![Movie Seat Booking GIF](app.png)
+
+![IMG_20230723_052355_294](https://github.com/Raazvardhan/Raazvardhan/assets/139915269/c2ada5ee-c47b-4ece-aa83-4c7c9a1cb6c5)
 
 ## Description
 
